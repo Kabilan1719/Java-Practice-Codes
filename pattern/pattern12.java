@@ -12,7 +12,7 @@ public class pattern12 {
                 System.out.print("*");
             }
             System.out.println();
-            if(i>=n/2)
+            if(i<=n/2)
             a += 2;
             else
             a -= 2;
